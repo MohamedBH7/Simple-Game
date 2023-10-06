@@ -1,4 +1,4 @@
-👨‍💻 C# Developer on .NET | Passionate about crafting elegant and efficient code.
-🚀 Experienced in developing applications using the power of C# and the versatility of the .NET framework.
-💡 Always seeking innovative solutions to complex problems and continuously enhancing my skills to stay at the forefront of software development.
-🌐 Let's build amazing software together! #CSharp #.NET #SoftwareDeveloper
+ Simple C# Game
+    <img src="https://github.com/MohamedBH7/ii/blob/main/gussing%20Number.png?raw=true" alt="Game Screenshot">
+    This game allows you to choose a random number between 1 and 100. It will respond to your guesses by telling you if the number is bigger or smaller.
+  
